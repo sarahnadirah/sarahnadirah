@@ -29,7 +29,7 @@ me.say_hi()
 ```
 <br />
 
-<p><em><img src="https://i.pinimg.com/originals/c6/d0/7c/c6d07c8e5fd5eabee04c96694e370432.gif" width="100">I love connecting with different people so do drop by and say hi! :)</em></p>
+<p><em><img src="https://i.pinimg.com/originals/c6/d0/7c/c6d07c8e5fd5eabee04c96694e370432.gif" width="70">I love connecting with different people so do drop by and say hi! :)</em></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
